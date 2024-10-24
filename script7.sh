@@ -1,5 +1,5 @@
 #!/bin/bash
-
+Hello
 OUTPUT="/root/ssh_status_`date +%Y%m%d`.log"
 
 while true
