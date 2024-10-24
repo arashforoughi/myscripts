@@ -5,7 +5,5 @@ if [ $# -eq 3 ]; then
 	echo "Number of Arguments are $#"
 #	echo "Script PID is $$"
 else
-#	echo "Insufficient variable numbers..."
-	echo "Child PID is $!"
-	exit 1;
+	echo "Insufficient variable numbers..."
 fi
